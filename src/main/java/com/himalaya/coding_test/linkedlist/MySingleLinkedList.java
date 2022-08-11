@@ -1,4 +1,4 @@
-package com.himalaya.coding_test.linkedList;
+package com.himalaya.coding_test.linkedlist;
 
 public class MySingleLinkedList<T> {
 
